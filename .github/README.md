@@ -32,3 +32,4 @@ The Tombstones mod has been historically closed source. The original author (Cor
 - Gegy1000
 - Barteks2X
 - Paul Fulham
+- Lothrazar - Simple Tomb development
