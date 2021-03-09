@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "simpletomb:grave_cross",
+    "simpletomb:grave_normal",
+    "simpletomb:grave_simple",
+    "simpletomb:tombstone"
+  ]
+}
