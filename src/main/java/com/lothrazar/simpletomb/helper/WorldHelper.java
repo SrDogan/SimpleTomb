@@ -8,7 +8,6 @@ import java.util.Random;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Blocks;
 import net.minecraft.entity.player.PlayerEntity;
-import net.minecraft.fluid.FluidState;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.world.GameRules;
 import net.minecraft.world.World;
@@ -32,10 +31,10 @@ public class WorldHelper {
       // blockstate doesnt matter, out of world
       return false;
     }
-    FluidState fluidHere = world.getFluidState(myPos);
+    //    FluidState fluidHere = world.getFluidState(myPos);
+    //only air or water. not any fluid state, and not any waterlogged block
     BlockState blockState = world.getBlockState(myPos);
-    return blockState.getBlock() == Blocks.AIR ||
-        (blockState.isSolid() == false && fluidHere != null);
+    return blockState.getBlock() == Blocks.AIR || blockState.getBlock() == Blocks.WATER; // && fluidHere.getFluid().isIn(FluidTags.WATER));
   }
 
   public static LocationBlockPos findGraveSpawn(final PlayerEntity player, final BlockPos initPos) {
