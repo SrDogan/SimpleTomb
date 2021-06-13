@@ -1,0 +1,8 @@
+{
+  "parent": "simpletomb:block/grave_simple",
+  "textures": {
+    "0": "simpletomb:blocks/tombstone",
+    "particle": "simpletomb:blocks/tombstone",
+    "ground": "blocks/dirt_podzol_top"
+  }
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "simpletomb",
+    "name": "Simple Tomb",
+    "description": "A very simple gravestone mod where your drops respawn in a tomb, with a key to locate.  A rebuilt minimized fork of the old mod Corail's Tombstone with new and different features.  Mod adds only one gravestone and one key, see the config file for more information. ",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/simple-tomb",
+    "updateUrl": "https://www.curseforge.com/minecraft/mc-mods/simple-tomb",
+    "authorList": ["Lothrazar", "Corail31"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

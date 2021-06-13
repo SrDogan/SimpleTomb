@@ -1,0 +1,10 @@
+{
+  "parent": "simpletomb:block/plate_tombstone",
+  "textures": {
+    "0": "simpletomb:blocks/tombstone",
+    "particle": "simpletomb:blocks/tombstone",
+    "ground": "blocks/dirt_podzol_top",
+    "cross": "blocks/concrete_white",
+    "grave_plate": "simpletomb:blocks/grave_plate"
+  }
+}

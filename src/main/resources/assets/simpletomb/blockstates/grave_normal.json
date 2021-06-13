@@ -1,0 +1,127 @@
+{
+  "variants": {
+    "facing=north,has_soul=false,is_engraved=false,model_texture=0": {
+      "model": "simpletomb:black_grave_normal"
+    },
+    "facing=east,has_soul=false,is_engraved=false,model_texture=0": {
+      "model": "simpletomb:black_grave_normal",
+      "y": 90
+    },
+    "facing=south,has_soul=false,is_engraved=false,model_texture=0": {
+      "model": "simpletomb:black_grave_normal",
+      "y": 180
+    },
+    "facing=west,has_soul=false,is_engraved=false,model_texture=0": {
+      "model": "simpletomb:black_grave_normal",
+      "y": 270
+    },
+    "facing=north,has_soul=false,is_engraved=true,model_texture=0": {
+      "model": "simpletomb:black_plate_grave_normal"
+    },
+    "facing=east,has_soul=false,is_engraved=true,model_texture=0": {
+      "model": "simpletomb:black_plate_grave_normal",
+      "y": 90
+    },
+    "facing=south,has_soul=false,is_engraved=true,model_texture=0": {
+      "model": "simpletomb:black_plate_grave_normal",
+      "y": 180
+    },
+    "facing=west,has_soul=false,is_engraved=true,model_texture=0": {
+      "model": "simpletomb:black_plate_grave_normal",
+      "y": 270
+    },
+
+    "facing=north,has_soul=false,is_engraved=false,model_texture=1": {
+      "model": "simpletomb:white_grave_normal"
+    },
+    "facing=east,has_soul=false,is_engraved=false,model_texture=1": {
+      "model": "simpletomb:white_grave_normal",
+      "y": 90
+    },
+    "facing=south,has_soul=false,is_engraved=false,model_texture=1": {
+      "model": "simpletomb:white_grave_normal",
+      "y": 180
+    },
+    "facing=west,has_soul=false,is_engraved=false,model_texture=1": {
+      "model": "simpletomb:white_grave_normal",
+      "y": 270
+    },
+    "facing=north,has_soul=false,is_engraved=true,model_texture=1": {
+      "model": "simpletomb:white_plate_grave_normal"
+    },
+    "facing=east,has_soul=false,is_engraved=true,model_texture=1": {
+      "model": "simpletomb:white_plate_grave_normal",
+      "y": 90
+    },
+    "facing=south,has_soul=false,is_engraved=true,model_texture=1": {
+      "model": "simpletomb:white_plate_grave_normal",
+      "y": 180
+    },
+    "facing=west,has_soul=false,is_engraved=true,model_texture=1": {
+      "model": "simpletomb:white_plate_grave_normal",
+      "y": 270
+    },
+
+    "facing=north,has_soul=true,is_engraved=false,model_texture=0": {
+      "model": "simpletomb:black_grave_normal"
+    },
+    "facing=east,has_soul=true,is_engraved=false,model_texture=0": {
+      "model": "simpletomb:black_grave_normal",
+      "y": 90
+    },
+    "facing=south,has_soul=true,is_engraved=false,model_texture=0": {
+      "model": "simpletomb:black_grave_normal",
+      "y": 180
+    },
+    "facing=west,has_soul=true,is_engraved=false,model_texture=0": {
+      "model": "simpletomb:black_grave_normal",
+      "y": 270
+    },
+    "facing=north,has_soul=true,is_engraved=true,model_texture=0": {
+      "model": "simpletomb:black_plate_grave_normal"
+    },
+    "facing=east,has_soul=true,is_engraved=true,model_texture=0": {
+      "model": "simpletomb:black_plate_grave_normal",
+      "y": 90
+    },
+    "facing=south,has_soul=true,is_engraved=true,model_texture=0": {
+      "model": "simpletomb:black_plate_grave_normal",
+      "y": 180
+    },
+    "facing=west,has_soul=true,is_engraved=true,model_texture=0": {
+      "model": "simpletomb:black_plate_grave_normal",
+      "y": 270
+    },
+
+    "facing=north,has_soul=true,is_engraved=false,model_texture=1": {
+      "model": "simpletomb:white_grave_normal"
+    },
+    "facing=east,has_soul=true,is_engraved=false,model_texture=1": {
+      "model": "simpletomb:white_grave_normal",
+      "y": 90
+    },
+    "facing=south,has_soul=true,is_engraved=false,model_texture=1": {
+      "model": "simpletomb:white_grave_normal",
+      "y": 180
+    },
+    "facing=west,has_soul=true,is_engraved=false,model_texture=1": {
+      "model": "simpletomb:white_grave_normal",
+      "y": 270
+    },
+    "facing=north,has_soul=true,is_engraved=true,model_texture=1": {
+      "model": "simpletomb:white_plate_grave_normal"
+    },
+    "facing=east,has_soul=true,is_engraved=true,model_texture=1": {
+      "model": "simpletomb:white_plate_grave_normal",
+      "y": 90
+    },
+    "facing=south,has_soul=true,is_engraved=true,model_texture=1": {
+      "model": "simpletomb:white_plate_grave_normal",
+      "y": 180
+    },
+    "facing=west,has_soul=true,is_engraved=true,model_texture=1": {
+      "model": "simpletomb:white_plate_grave_normal",
+      "y": 270
+    }
+  }
+}
